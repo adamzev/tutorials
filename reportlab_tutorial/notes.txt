@@ -1,0 +1,7 @@
+https://www.blog.pythonlibrary.org/2010/03/08/a-simple-step-by-step-reportlab-tutorial/
+
+Trying to learn how to right justify in reportlab pdfs
+
+https://www.blog.pythonlibrary.org/2010/09/21/reportlab-tables-creating-tables-in-pdfs-with-python/
+
+Trying to see if I should use tables to replace my custom grid system
